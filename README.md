@@ -4,6 +4,8 @@
 </br>
 </br>
 
-Mini project for theoritical understanding, please visit [logisticRegression.ipynb (colab)]() and [oneVSallLogisticRegression.ipynb (colab)]() for details.
+Mini project for theoritical understanding, for details on implementation, please visit
+  - _[logisticRegression.ipynb (colab)]()_
+  - _[oneVSallLogisticRegression.ipynb (colab)]()_
 </br>
 </br>
